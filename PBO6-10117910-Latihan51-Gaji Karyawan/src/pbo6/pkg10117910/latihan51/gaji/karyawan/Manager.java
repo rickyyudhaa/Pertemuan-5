@@ -9,7 +9,7 @@ package pbo6.pkg10117910.latihan51.gaji.karyawan;
  *
  * @author User
  */
-public class Manager {
+public class Manager extends Karyawan{
     private int kehadiran;
     private float tunjanganGolongan, tunjanganJabatan, tunjanganKehadiran;
     
